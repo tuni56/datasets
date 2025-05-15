@@ -1,11 +1,11 @@
 producto,categoria,ventas_unitarias,precio_unitario,costo_unitario,stock,fecha_venta
-Cafe Premium,Bebidas,180,8,"7,5",25,2025-04-15
-Galletas Mix,Alimentos,250,"3,5",2,40,2025-04-18
-Te Organico,Bebidas,95,6,2,20,2025-04-20
-Agua con Gas,Bebidas,300,"1,2","1,15",60,2025-04-19
-Pan Artesanal,Alimentos,60,5,"4,5",15,2025-04-14
-Dulce Regional,Alimentos,30,12,10,10,2025-04-16
-Jugo Detox,Bebidas,180,7,"6,8",22,2025-04-21
-Yogurt Artesanal,Lacteos,90,"4,5","1,5",30,2025-04-20
-Queso Artesanal,Lacteos,40,10,8,12,2025-04-22
-Bebida Energetica,Bebidas,220,"2,5","2,4",50,2025-04-17
+Cafe Premium,Bebidas,180,8.00,7.50,25,2025-04-15
+Galletas Mix,Alimentos,250,3.50,2.00,40,2025-04-18
+Te Organico,Bebidas,95,6.00,2.00,20,2025-04-20
+Agua con Gas,Bebidas,300,1.20,1.15,60,2025-04-19
+Pan Artesanal,Alimentos,60,5.00,4.50,15,2025-04-14
+Dulce Regional,Alimentos,30,12.00,10.00,10,2025-04-16
+Jugo Detox,Bebidas,180,7.00,6.80,22,2025-04-21
+Yogurt Artesanal,Lacteos,90,4.50,1.50,30,2025-04-20
+Queso Artesanal,Lacteos,40,10.00,8.00,12,2025-04-22
+Bebida Energetica,Bebidas,220,2.50,2.40,50,2025-04-17
